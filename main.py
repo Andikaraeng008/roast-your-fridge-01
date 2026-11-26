@@ -5,7 +5,7 @@ The line is one sentence of 115 characters, inside the 1-200 gate.
 """
 import os
 
-LINE = "My fridge hums all night like it is warming up for a choir, then bills me for the concert on the electricity meter."
+LINE = "My fridge has one job — keep things cold — yet the ice cream melts, the lettuce freezes, and the butter has filed for divorce twice."
 
 
 def main() -> None:
